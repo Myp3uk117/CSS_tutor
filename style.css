@@ -1,36 +1,13 @@
-h1 {
-    text-align: right;
-	color: green;
-}
-
-h2 {
-  width: 300px;
-  text-align: center;
-    color:blue;
-}
-
-h3{
-    color: red;
-}
-
-h4{
-    color: rgb(88, 23, 94)
-}
-
-p {
-  text-align: justify;
-    width: 300px;
-    color: orange;
-}
-
 table {
-  width: 500px;
+    width: 500px;
+    height: 300px;
 }
 
-th {
-  text-align: left;
+td{
+    font-weight: bold;
+    text-align: center;
 }
 
-td {
-  text-align: center;
+th{
+    font-weight: normal;
 }
