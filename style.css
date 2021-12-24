@@ -15,5 +15,11 @@ h4{
 }
 
 p {
+    width: 300px;
     color: orange;
+}
+
+td {
+   width:  400px;
+   height: 300px; 
 }
