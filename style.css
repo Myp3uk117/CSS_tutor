@@ -1,11 +1,11 @@
+/* task 1 */
+/* ul i{
+    color: red;
+}
+p i {
+    color: green
+} */
 
-h2 {
-	color: blue;
-}
-h3 {
-	font-size: 16px;
-	color: red;
-}
-h1,h2,h3{
-    text-align: center;
+p b i{
+    color: red;
 }
