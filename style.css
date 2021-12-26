@@ -1,18 +1,17 @@
-/* task 1 */
-/* p {
-	font: 25px/50px "Times New Roman";
-    width: 1120px;
-} */
+h1 {
+    color: red;
+    text-decoration: overline;
+}
 
-/* task 2 */
-/* p {
-	width: 300px;
-	color: red;
-	font: bold 40px Arial;
-} */
+h2 {
+    color: green;
+    text-decoration: line-through;
+}
 
-/* task 3 */
-/* p {
-	text-indent: 50px;
-    font: italic bold 40px/60px Arial;
-} */
+h3 {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
