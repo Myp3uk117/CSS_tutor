@@ -1,17 +1,23 @@
+body{
+    width: 500px;
+}
+
 h1 {
-    color: red;
-    text-decoration: overline;
+    color: blue;
+    text-align: center;
+    font: bold 40px "Times New Roman";
 }
 
 h2 {
     color: green;
-    text-decoration: line-through;
+    text-align: center;
+    font: 30px/50px "Times New Roman";
 }
-
-h3 {
-    text-decoration: underline;
+p {
+    text-indent: 50px;
+    text-align: justify;
+    font: 17px/26px Arial;
 }
-
-a {
-    text-decoration: none;
+ul {
+    text-align: justify;
 }
